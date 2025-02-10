@@ -1,6 +1,6 @@
 # CloudMart
 
-CloudMart is a web application developed for [describe the purpose of the application].
+CloudMart is a web application developed for studying MultiCloud, Devops and AI technologies.
 
 ## Features
 
@@ -10,10 +10,10 @@ CloudMart is a web application developed for [describe the purpose of the applic
 
 - **Frontend:**
   - JavaScript
-  - [Framework/Library used]
   - Tailwind CSS
+  - 
 - **Backend:**
-  - [Technologies and frameworks used in the backend]
+  - 
 - **Cloud & Infrastructure:**
   - AWS
   - Google Cloud
@@ -27,7 +27,9 @@ CloudMart is a web application developed for [describe the purpose of the applic
 
 ## Prerequisites
 
-- [List of prerequisites, such as specific versions of Node.js, Docker, etc.]
+- List of prerequisites:
+  - Node.js;
+  - Docker.
 
 ## Installation
 
@@ -54,11 +56,11 @@ CloudMart is a web application developed for [describe the purpose of the applic
    npm run dev
    ```
 
-   The application will be available at `http://localhost:3000`.
+   The application will be available at `http://localhost:5000`.
 
 ## Usage
 
-[Instructions on how to use the application, including examples if applicable.]
+The application is basically a product sales website with a help assistant and Active Support for problem solving.
 
 ## Contribution
 
