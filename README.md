@@ -11,9 +11,8 @@ CloudMart is a web application developed for studying MultiCloud, Devops and AI 
 - **Frontend:**
   - JavaScript
   - Tailwind CSS
-  - 
 - **Backend:**
-  - 
+  - React
 - **Cloud & Infrastructure:**
   - AWS
   - Google Cloud
